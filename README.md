@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim653&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim653" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently **junior Flutter Developer**
 
-- 👯 I’m looking to collaborate on **team**
+- 👯 I’m working at **Kortobaa**
 
 - 📫 How to reach me **ibrahimatef715@gmail.com**
 
